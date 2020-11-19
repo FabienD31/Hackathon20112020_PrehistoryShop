@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon20112020_PrehistoryShop", "Hackathon20112020_PrehistoryShop.csproj", "{3B16E830-A5D2-42DA-8690-CF273A2EF20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B16E830-A5D2-42DA-8690-CF273A2EF20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B16E830-A5D2-42DA-8690-CF273A2EF20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B16E830-A5D2-42DA-8690-CF273A2EF20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B16E830-A5D2-42DA-8690-CF273A2EF20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B4C2333-4EC5-4FF8-81EA-782971FCF299}
+	EndGlobalSection
+EndGlobal
